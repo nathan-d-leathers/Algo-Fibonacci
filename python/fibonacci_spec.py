@@ -8,3 +8,13 @@ print(fibonacci(11) == 89)
 print(fibonacci(14) == 377)
 print(fibonacci(17) == 1597)
 print(fibonacci(20) == 6765)
+
+# output:
+# True
+# True
+# True
+# True
+# True
+# True
+# True
+# True

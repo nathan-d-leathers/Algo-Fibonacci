@@ -9,5 +9,15 @@ console.log(fib.fibonacci(14) === 377)
 console.log(fib.fibonacci(17) === 1597)
 console.log(fib.fibonacci(20) === 6765)
 
+// output:
+// true
+// true
+// true
+// true
+// true
+// true
+// true
+// true
 
+// future challenge: solve without recursion 
 
